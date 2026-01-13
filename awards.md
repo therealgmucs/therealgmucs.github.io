@@ -181,21 +181,23 @@
 
 ## Virginia Awards
 
-**Missy Cummings**
-Virginia Academy of Science, Engineering and Medicine (VASEM) Members, 2025  
+- **Xuesu Xiao**
+    - 2025 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
 
-**Amarda Shehu**
-Virginia Academy of Science, Engineering and Medicine (VASEM) Members 2024
+- **Missy Cummings**
+    - Virginia Academy of Science, Engineering and Medicine (VASEM) Members, 2025  
 
-**Amarda Shehu**  
-2022 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
+- **Amarda Shehu**
+    - Virginia Academy of Science, Engineering and Medicine (VASEM) Members, 2024
 
-**Jeff Offutt**  
-2019 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
+- **Amarda Shehu**  
+    - 2022 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
 
-**Daniel Menascé**  
-2017 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
+- **Jeff Offutt**  
+    - 2019 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
 
+- **Daniel Menascé**  
+    - 2017 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
 
 
 ## Mason Awards
