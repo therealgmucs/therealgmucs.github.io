@@ -264,9 +264,9 @@
   - Emerging Researcher, Scholar, Creator Awards, 2009
 - **Carlotta Domeniconi**
   - Emerging Researcher, Scholar, Creator Awards, 2008
-- **Daniel Menascé**
+- **Daniel Menascé**\*
   - Teaching Excellence Award Winners, 2000
 
 
-\* No longer at George Mason. Rewards received while at GMU.
+\* No longer at George Mason (retired or moved). Rewards received while at GMU.
 
