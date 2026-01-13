@@ -206,96 +206,66 @@
 
 ## Mason Awards
 
-**Kevin Andrea**
-Teaching Excellence Award, 2025
-
-**Xuesu Xiao**
-Presidential Faculty Excellence Awards, 2025
-
-**Thomas LaToza**
-Teacher of Distinction Award Winners, 2024
-
-**Antonios Anastasopoulos**
-Presidential Faculty Excellence Awards, 2024
-
-**Amarda Shehu**
-Presidential Faculty Excellence Awards, 2021
-
-**Daniel Menascé**
-David J. King Teaching Award, 2021
-
-**Amarda Shehu**
-Beck Family Presidential Medal for Faculty Excellence in Research & Scholarship, 2021
-
-**Jeff Offutt**
-Alumni Association Faculty of the Year Award, 2020
-
-Presidential Faculty Excellence Awards, 2020
-
-**Katherine (Raven) Russell**
-Teacher of Distinction Award Winners, 2020
-
-**Jonathan Bell**
-Teacher of Distinction Award Winners, 2020
-
-**Paul Ammann**
-Teaching Excellence Award Winners, 2019
-
-**Huzefa Rangwala**
-OSCAR Mentor Award Winners, 2018
-
-**Amarda Shehu**
-Teaching Excellence Award Winners, 2018
-
-**Chris Kauffman**
-Teaching Excellence Award Winners, 2017
-
-**Yotam Gingold**
-Teaching Excellence Award Winners, 2017
-
-**Kinga Dobolyi**
-Teaching Excellence Award Winners, 2016
-
-**Mark Snyder**
-Teaching Excellence Award Winners, 2016
-
-**Jyh-Ming Lien**
-Emerging Researcher, Scholar, Creator Awards, 2015
-
-**Sean Luke**
-Teaching Excellence Award Winners, 2015
-
-**Amarda Shehu**
-Emerging Researcher, Scholar, Creator Awards, 2014
-
-**Huzefa Rangwala**
-Teaching Excellence Award Winners, 2014
-
-Mason Emerging Researcher, Scholar, Creator Awards, 2014
-
-**Jeff Offutt**
-Teaching Excellence Award Winners, 2013
-
-**Amarda Shehu**
-OSCAR Mentor Award Winners, 2013
-
-**Sam Malek**
-Emerging Researcher, Scholar, Creator Awards, 2013
-
-**Tamara Maddox**
-Teaching Excellence Award Winners, 2012
-
-**Angelos Stavrou**
-Emerging Researcher, Scholar, Creator Awards, 2012
-
-**Songqing Chen**
-Emerging Researcher, Scholar, Creator Awards, 2009
-
-**Carlotta Domeniconi**
-Emerging Researcher, Scholar, Creator Awards, 2008
-
-**Daniel Menascé**
-Teaching Excellence Award Winners, 2000
+- **Kevin Andrea**
+  - Teaching Excellence Award, 2025
+- **Xuesu Xiao**
+  - Presidential Faculty Excellence Awards, 2025
+- **Thomas LaToza**
+  - Teacher of Distinction Award Winners, 2024
+- **Antonios Anastasopoulos**
+  - Presidential Faculty Excellence Awards, 2024
+- **Amarda Shehu**
+  - Presidential Faculty Excellence Awards, 2021
+- **Daniel Menascé**
+  - David J. King Teaching Award, 2021
+- **Amarda Shehu**
+  - Beck Family Presidential Medal for Faculty Excellence in Research & Scholarship, 2021
+- **Jeff Offutt**
+  - Alumni Association Faculty of the Year Award, 2020
+  - Presidential Faculty Excellence Awards, 2020
+- **Katherine (Raven) Russell**
+  - Teacher of Distinction Award Winners, 2020
+- **Jonathan Bell**
+  - Teacher of Distinction Award Winners, 2020
+- **Paul Ammann**
+  - Teaching Excellence Award Winners, 2019
+- **Huzefa Rangwala**
+  - OSCAR Mentor Award Winners, 2018
+- **Amarda Shehu**
+  - Teaching Excellence Award Winners, 2018
+- **Chris Kauffman**
+  - Teaching Excellence Award Winners, 2017
+- **Yotam Gingold**
+  - Teaching Excellence Award Winners, 2017
+- **Kinga Dobolyi**
+  - Teaching Excellence Award Winners, 2016
+- **Mark Snyder**
+  - Teaching Excellence Award Winners, 2016
+- **Jyh-Ming Lien**
+  - Emerging Researcher, Scholar, Creator Awards, 2015
+- **Sean Luke**
+  - Teaching Excellence Award Winners, 2015
+- **Amarda Shehu**
+  - Emerging Researcher, Scholar, Creator Awards, 2014
+- **Huzefa Rangwala**
+  - Teaching Excellence Award Winners, 2014
+  - Mason Emerging Researcher, Scholar, Creator Awards, 2014
+- **Jeff Offutt**
+  - Teaching Excellence Award Winners, 2013
+- **Amarda Shehu**
+  - OSCAR Mentor Award Winners, 2013
+- **Sam Malek**
+  - Emerging Researcher, Scholar, Creator Awards, 2013
+- **Tamara Maddox**
+  - Teaching Excellence Award Winners, 2012
+- **Angelos Stavrou**
+  - Emerging Researcher, Scholar, Creator Awards, 2012
+- **Songqing Chen**
+  - Emerging Researcher, Scholar, Creator Awards, 2009
+- **Carlotta Domeniconi**
+  - Emerging Researcher, Scholar, Creator Awards, 2008
+- **Daniel Menascé**
+  - Teaching Excellence Award Winners, 2000
 
 
 \* No longer at George Mason. Rewards received while at GMU.
