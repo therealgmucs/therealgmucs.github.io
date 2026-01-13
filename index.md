@@ -20,6 +20,8 @@
 
 ## [Faculty Awards and Honors](/awards.md)
 
+## [Stats, Rankings, and Other Interesting Info](https://github.com/dynaroars/dynaroars.github.io/wiki/About-GMU)
+
 
 ## Links
 - [CS Department](https://cs.gmu.edu)
