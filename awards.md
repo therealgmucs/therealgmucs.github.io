@@ -22,7 +22,6 @@
     - IEEE Fellow for contributions to scalable, distributed component- and event-based software systems, 2006
 
 
-
 **Harry Wechsler**  
 - IEEE Fellow, 1993  
 - Fellow, International Association for Pattern Recognition, 1998
@@ -41,33 +40,6 @@
 - **Gheorghe Tecuci**  
     - U.S. Army Outstanding Civilian Service Medal, for groundbreaking contributions to the application of artificial intelligence to center of gravity determination.
 
-
-## Most Influential Paper, Impact Paper, and Test of Time Paper Awards
-
-- **ThanhVu Nguyen** 
-    — Most Influential Paper Award, TSE (50th anniversary) 2025 — *GenProg: A Generic Method for Automated Software Repair*, TSE 2013  
-- **Andrian Marcus** 
-    — Most Influential Paper Award, ICPC 2023 — *Automatic generation of natural language summaries for Java classes*, ICPC 2013  
-- **Jeff Offutt** 
-    — Most Influential Paper Award, MODELS 2020 — *Modeling presentation layers of web applications for testing*, SoSyM 2010  
-- **Andrian Marcus** 
-    — Most Influential Paper Award, WCRE 2020 — *On the use of automated text summarization techniques for summarizing source code*, WCRE 2010  
-- **Jeff Offutt** — 30-year Most Influential Paper Award, ISSRE 2019 — *Inter-class mutation operators for Java*, ISSRE 2002  
-- **ThanhVu Nguyen** — Most Influential Paper Award, ICSE 2019 — *Automatically finding patches using genetic programming*, ICSE 2009  
-- **ThanhVu Nguyen** — Impact Paper Award, SIGEVO 2019 — *A genetic programming approach to automated software repair*, GECCO 2009  
-- **Andrian Marcus** — Most Influential Paper Award, ICSM 2019 — *On the use of relevance feedback in IR-based concept location*, ICSM 2009  
-- **Thomas LaToza** — Classic Paper, Google Scholar 2017 — *Maintaining mental models: a study of developer work habits*, ICSE 2006  
-- **Sanjeev Setia** — Classic Paper, Google Scholar 2017 — *LEAP+: Efficient security mechanisms for large-scale distributed sensor networks*, TOSN 2006  
-- **Andrian Marcus** — Most Influential Paper Award, ICPC 2017 — *Combining formal concept analysis with information retrieval for concept location in source code*, ICPC 2007  
-- **Andrian Marcus** — Most Influential Paper Award, ICSM 2016 — *The conceptual coupling metrics for object-oriented systems*, ICSM 2006  
-- **Andrian Marcus** — Most Influential Paper Award, WCRE 2014 — *An information retrieval approach to concept location in source code*, WCRE 2004  
-- **Jeff Offutt** — Notable Article, ACM Computing Reviews 2013 — *Putting the engineering into software engineering education*, IEEE Software 2013  
-- **Andrian Marcus** — Most Influential Paper Award, VISSOFT 2012 — *A task oriented view of software visualization*, VISSOFT 2002  
-- **David Rosenblum** — Impact Paper Award, SIGSOFT 2008 — *A design framework for internet-scale event observation and notification*, SIGSOFT 1997  
-- **David Rosenblum** — Most Influential Paper Award, ICSE 2002 — *Towards a method of programming with assertions*, ICSE 1992
-
----
-
 ## Most Influential Scholar Awards
 
 - **Giuseppe Ateniese** — AMiner's A-10 Most Influential Security and Privacy Scholars, 2019  
@@ -75,6 +47,45 @@
 - **Giuseppe Ateniese** — MLSEC's Influential Top-100 Security Papers, 2007  
 - **Giuseppe Ateniese** — MLSEC's Influential Top-100 Security Papers, 2005  
 - **Sanjeev Setia** — MLSEC's Influential Top-100 Security Papers, 2003
+
+
+## Most Influential Paper, Impact Paper, and Test of Time Paper Awards
+
+- **ThanhVu Nguyen** 
+    - Most Influential Paper Award, TSE (50th anniversary) 2025 — *GenProg: A Generic Method for Automated Software Repair*, TSE 2013  
+- **Andrian Marcus** 
+    - Most Influential Paper Award, ICPC 2023 — *Automatic generation of natural language summaries for Java classes*, ICPC 2013  
+- **Jeff Offutt** 
+    - Most Influential Paper Award, MODELS 2020 — *Modeling presentation layers of web applications for testing*, SoSyM 2010  
+- **Andrian Marcus** 
+    - Most Influential Paper Award, WCRE 2020 — *On the use of automated text summarization techniques for summarizing source code*, WCRE 2010  
+- **Jeff Offutt** 
+    - 30-year Most Influential Paper Award, ISSRE 2019 — *Inter-class mutation operators for Java*, ISSRE 2002  
+- **ThanhVu Nguyen** 
+    - Most Influential Paper Award, ICSE 2019 — *Automatically finding patches using genetic programming*, ICSE 2009  
+- **ThanhVu Nguyen** 
+    - Impact Paper Award, SIGEVO 2019 — *A genetic programming approach to automated software repair*, GECCO 2009  
+- **Andrian Marcus** 
+    - Most Influential Paper Award, ICSM 2019 — *On the use of relevance feedback in IR-based concept location*, ICSM 2009  
+- **Thomas LaToza** 
+    - Classic Paper, Google Scholar 2017 — *Maintaining mental models: a study of developer work habits*, ICSE 2006  
+- **Sanjeev Setia** 
+    - Classic Paper, Google Scholar 2017 — *LEAP+: Efficient security mechanisms for large-scale distributed sensor networks*, TOSN 2006  
+- **Andrian Marcus** 
+    - Most Influential Paper Award, ICPC 2017 — *Combining formal concept analysis with information retrieval for concept location in source code*, ICPC 2007  
+- **Andrian Marcus** 
+    - Most Influential Paper Award, ICSM 2016 — *The conceptual coupling metrics for object-oriented systems*, ICSM 2006  
+- **Andrian Marcus** 
+    - Most Influential Paper Award, WCRE 2014 — *An information retrieval approach to concept location in source code*, WCRE 2004  
+- **Jeff Offutt** 
+    - Notable Article, ACM Computing Reviews 2013 — *Putting the engineering into software engineering education*, IEEE Software 2013  
+- **Andrian Marcus** 
+    - Most Influential Paper Award, VISSOFT 2012 — *A task oriented view of software visualization*, VISSOFT 2002  
+- **David Rosenblum** 
+    - Impact Paper Award, SIGSOFT 2008 — *A design framework for internet-scale event observation and notification*, SIGSOFT 1997  
+- **David Rosenblum** 
+    - Most Influential Paper Award, ICSE 2002 — *Towards a method of programming with assertions*, ICSE 1992
+
 
 ---
 
