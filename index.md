@@ -19,3 +19,8 @@
 
 
 ## [Faculty Awards and Honors](/awards.md)
+
+
+## Links
+- [CS Department](https://cs.gmu.edu)
+- [CS Internal Sharepoint](https://go.gmu.edu/cs): For current students
