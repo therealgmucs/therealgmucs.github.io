@@ -22,7 +22,7 @@
   - IEEE Fellow for contributions to scalable, distributed component- and event-based software systems, 2006
 - **Harry Wechsler**
   - IEEE Fellow, 1993
-  - Fellow, International Association for Pattern Recognition, 1998
+  
 
 ## Other Lifetime Achievement Awards
 - **Amarda Shehu**
@@ -37,6 +37,8 @@
   - Full Member, Romanian Academy, 1993
 - **Gheorghe Tecuci**
   - U.S. Army Outstanding Civilian Service Medal, for groundbreaking contributions to the application of artificial intelligence to center of gravity determination.
+- **Hary Wechsler**\*
+  - Fellow, International Association for Pattern Recognition, 1998
 
 ## Most Influential Scholar Awards
 
