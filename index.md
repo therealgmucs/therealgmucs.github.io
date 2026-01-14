@@ -1,6 +1,5 @@
 <link rel="stylesheet" type="text/css" href="https://dynaroars.github.io/files/org.css">
 
-# Real GMU CS
 > no branding, no marketing, no filterin
 
 
