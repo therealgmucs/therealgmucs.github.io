@@ -176,7 +176,7 @@
 - **Keren Zhou** — Doctoral Dissertation Award, ACM SIGHPC, 2023
 - **Evgenios Kornaropoulos** — Miretta Flytzani-Stephanopoulos Doctoral Thesis Achievement Award, The Circle of Hellenic Academics in Boston, 2022
 - **Wing Lam** — Outstanding Dissertation Award, ACM SIGSOFT, 2022
-- **Lishan Yan** — Kaivalya Dixit Distinguished Dissertation Award, Standard Performance Evaluation Corporation (SPEC), 2022
+- **Lishan Yang** — Kaivalya Dixit Distinguished Dissertation Award, Standard Performance Evaluation Corporation (SPEC), 2022
 
 
 ## Virginia Awards
