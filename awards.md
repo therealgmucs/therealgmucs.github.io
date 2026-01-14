@@ -91,7 +91,7 @@
 
 ## Industrial Awards
 
-- **ThanhVu Nguyen** — Nvidia Acadmic Grant Award, 2025
+- **ThanhVu Nguyen** — NVIDIA Academic Grant Award, 2025
 - **Mingrui Liu** — Cisco Research Award, 2024
 - **ThanhVu Nguyen** — Amazon Research Award (Automated Reasoning), 2023
 - **Jana Kosecka** — Amazon Research Award (Fairness in AI), 2022
