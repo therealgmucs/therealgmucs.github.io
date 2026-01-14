@@ -168,8 +168,6 @@
 - **Craig Yu** 
   - NSF CRII Award, 2015
 
----
-
 ## Dissertation Awards
 
 - **Keren Zhou** — Doctoral Dissertation Award, ACM SIGHPC, 2023
