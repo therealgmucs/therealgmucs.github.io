@@ -20,7 +20,7 @@
 
 ## [Faculty Awards and Honors](/awards.md)
 
-## [Stats, Rankings, and Other Interesting Info](https://github.com/dynaroars/dynaroars.github.io/wiki/About-GMU)
+## [Stats, Rankings, and Other Interesting Info](/about.md)
 
 
 ## Links
