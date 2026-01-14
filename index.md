@@ -13,7 +13,7 @@
 ### 2025
 - **Xuesu Xiao** receiving the 2025 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV). This is in addition to the Research Excellence Award from the College of Engineering and the Presidential Research Awards. Congrats!
 - Congrats to **Antonios Anastasopoulos** (NLP) and **Evgenios Kornaropoulos** (Security) for receiving the NSF CAREER Awards.
-- Congrats to **Missy Cummings** for being named a Virginia Academy of Science, Engineering and Medicine (VASEM) Member for 2025.
+- Congrats to **Missy Cummings** for being named a Virginia Academy of Science, Engineering and Medicine (VASEM) Member.
 - Congrats to **Daniel Menascé** for becoming IEEE Life Fellow.
 - Congrats to **ThanhVu Nguyen** for receiving the IEEE TSE Most Influential Paper of the Decade Award. 
 - Congrats to **Kevin Andrea** for receiving the GMU Teaching Excellence Award.
