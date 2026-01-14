@@ -201,6 +201,8 @@
 
 
 ## Mason Awards
+- **Craig Yu**
+  - Innovators Award (Digital Innovation), 2025
 - **Kevin Andrea**
   - Teaching Excellence Award, 2025
   - Outstanding Term Assistant Professor 2025
