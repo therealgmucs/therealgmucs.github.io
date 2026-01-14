@@ -10,32 +10,32 @@
   - IEEE Fellow for contributions to Internet streaming, content delivery, and security, 2024
 - **Jana Kosecka**
   - IEEE Fellow for contributions to robust embodied vision systems and semantic modelling in robotics, 2023
-- **Daniel Menascé**
+- **Daniel Menascé**\*
   - ACM Fellow for fundamental contributions to education and practice of computer networks and performance evaluation, and material contributions to the establishment of a strong computing industry in Brazil, 1997
   - IEEE Fellow for contributions to research and education in performance evaluation of computer systems, 2014
   - IEEE Life Fellow, 2025
-- **Mark J. Pullen**
+- **Mark J. Pullen**\*
   - IEEE Fellow for technical leadership in computing systems and networking
   - ACM Fellow for contributions to information technology in transitioning the Internet from a Federal research project to commercial availability, and development of Internet distance education technologies
 - **David S. Rosenblum**
   - ACM Fellow for contributions to software testing and distributed systems, and for service to the software engineering community, 2010
   - IEEE Fellow for contributions to scalable, distributed component- and event-based software systems, 2006
-- **Harry Wechsler**
+- **Harry Wechsler**\*
   - IEEE Fellow, 1993
   
 
 ## Other Lifetime Achievement Awards
 - **Amarda Shehu**
   - Fellow, The American Institute for Medical and Biological Engineering (AIMBE), 2022
-- **Kenneth DeJong**
+- **Kenneth DeJong**\*
   - IEEE Evolutionary Computation Pioneer Award, to recognize significant contributions to early concepts and developments in the field of evolutionary computation, 2005
-- **Daniel Menascé**
+- **Daniel Menascé**\*
   - A. A. Michelson award from the Computer Measurement Group, a lifetime achievement award given in recognition of outstanding contributions to computer metrics, 2001
-- **Kenneth DeJong**
+- **Kenneth DeJong**\*
   - Senior Fellow, International Society for Genetic and Evolutionary Computation, 2002
-- **Gheorghe Tecuci**
+- **Gheorghe Tecuci**\*
   - Full Member, Romanian Academy, 1993
-- **Gheorghe Tecuci**
+- **Gheorghe Tecuci**\*
   - U.S. Army Outstanding Civilian Service Medal, for groundbreaking contributions to the application of artificial intelligence to center of gravity determination.
 - **Hary Wechsler**\*
   - Fellow, International Association for Pattern Recognition, 1998
@@ -55,11 +55,11 @@
   - Most Influential Paper Award, TSE (50th anniversary) 2025 — *GenProg: A Generic Method for Automated Software Repair*, TSE 2013
 - **Andrian Marcus** 
   - Most Influential Paper Award, ICPC 2023 — *Automatic generation of natural language summaries for Java classes*, ICPC 2013
-- **Jeff Offutt** 
+- **Jeff Offutt**\*
   - Most Influential Paper Award, MODELS 2020 — *Modeling presentation layers of web applications for testing*, SoSyM 2010
 - **Andrian Marcus** 
   - Most Influential Paper Award, WCRE 2020 — *On the use of automated text summarization techniques for summarizing source code*, WCRE 2010
-- **Jeff Offutt** 
+- **Jeff Offutt**\*
   - 30-year Most Influential Paper Award, ISSRE 2019 — *Inter-class mutation operators for Java*, ISSRE 2002
 - **ThanhVu Nguyen** 
   - Most Influential Paper Award, ICSE 2019 — *Automatically finding patches using genetic programming*, ICSE 2009
@@ -99,8 +99,8 @@
 - **Evgenios Kornaropoulos** — Facebook Research Award (Security), 2022
 - **Bo Han** — Facebook Research Award (Security), 2022
 - **Songqing Chen** — Facebook Research Award (Security), 2022
-- **Kevin Moran** — Cisco Advanced Security Research Group Award, 2022
-- **Kevin Moran** — Cisco Advanced Security Research Group Award, 2021
+- **Kevin Moran**\* — Cisco Advanced Security Research Group Award, 2022
+- **Kevin Moran**\* — Cisco Advanced Security Research Group Award, 2021
 - **Foteini Baldimtsi** — Google Faculty Research Award, 2021
 - **Foteini Baldimtsi** — Facebook Faculty Research Award (Privacy), 2020
 - **Antonios Anastasopoulos** — Google Award for Inclusion, 2020
@@ -126,7 +126,7 @@
 - **Jonathan Bell*** — "Amplifying Developer-Written Tests for Code Injection Vulnerability Detection," 2019
 - **Alexander Brodsky** — "Constraint Databases: Space, Time and Combinatorial Optimization," 1998
 - **Songqing Chen** — "Internet Resource Management to Deliver High Quality Live and On-Demand Streaming for Wireless Clients," 2008
-- **Yue Cheng*** — "Harnessing Serverless Functions to Build Highly Elastic Cloud Storage Infrastructure," 2021
+- **Yue Cheng***\* — "Harnessing Serverless Functions to Build Highly Elastic Cloud Storage Infrastructure," 2021
 - **Carlotta Domeniconi** — "Learning Local Feature Relevance for Pattern Classification and Clustering," 2005
 - **Yotam Gingold** — "Direct Manipulation of Numerical Optimization for Structured Geometry Creation," 2015
 - **Dov Gordon** — "Trading Security for Efficiency in Secure Computation," 2020
@@ -135,22 +135,19 @@
 - **Wing Lam** — "Enhanced Reliability and Efficiency of Software Regression Testing in the Presence of Flaky Tests", 2024
 - **Thomas LaToza** — "Debugging Mental Models," 2019
 - **Andrian Marcus** — "Management of Unstructured Information During Software Evolution," 2009
-- **Sam Malek*** — "A Mining‐Based Approach for Consistent and Timely Adaptation of Component‐Based Software," 2013
+- **Sam Malek***\* — "A Mining‐Based Approach for Consistent and Timely Adaptation of Component‐Based Software," 2013
 - **ThanhVu Nguyen** — "NeuralSAT: A Constraint-Solving Framework for Verifying Deep Neural Networks," 2023
 - **Parth Pathak** — "Unifying Millimeter-wave Networking and Sensing using Commodity Backscatter," 2021
-- **Huzefa Rangwala** — "Annotating the Microbiome Using Machine Learning Methods," 2013
+- **Huzefa Rangwala**\* — "Annotating the Microbiome Using Machine Learning Methods," 2013
 - **David Rosenblum** — "Mechanisms for Ensuring the Integrity of Distributed Object Systems”, 1997 (Received at University of California, Irvine)
 - **Amarda Shehu** — "Probabilistic Methods for Addressing Complexity and Constraints in Protein Systems," 2012
 - **Gurdip Singh** — "Modular Design of Protocols," 1995 (Received at Kansas State University)
 - **Xinyuan (Frank) Wang** — "Malware Immunization and Forensics Based on Another Sense of Self," 2009
 - **Liz White** — "General Support for Dynamic Reconfiguration," 1996
-- **Thema Monroe-White** — "Investigating Undergraduate Student Persistence Intentions for a Diverse Data Science Community"
+- **Thema Monroe-White**\* — "Investigating Undergraduate Student Persistence Intentions for a Diverse Data Science Community"
 - **Jinwei Ye** — "Towards Polarimetric Visual Understanding," 2023
 - **Lap-Fai (Craig) Yu** — "Performance-Guided Synthesis of Virtual Environments for Personalized Training," 2020
 - **Qiang Zeng** — "Towards Secure and Usable IoT Authentication Under Constraints," 2022 (Received at University of South Carolina and Transferred to GMU)
-
-
----
 
 ## Airforce Office of Scientific Research (AFOSR) Young Investigator Program
 
@@ -160,13 +157,13 @@
 ## Early Career Awards
 - **Xuesu Xiao** 
   - ICRA New Generation Star, 2024
-- **Kevin Moran**
+- **Kevin Moran**\*
   - MOBILESoft Rising Star Award, 2023
 - **ThanhVu Nguyen** 
   - NSF CRII Award, 2020
 - **Jinwei Ye** 
   - NSF CRII Award, 2020
-- **Grigory Yaroslavtsev** 
+- **Grigory Yaroslavtsev**\* 
   - NSF CRII Award, 2017
 - **Craig Yu** 
   - NSF CRII Award, 2015
@@ -179,10 +176,6 @@
 - **Evgenios Kornaropoulos** — Miretta Flytzani-Stephanopoulos Doctoral Thesis Achievement Award, The Circle of Hellenic Academics in Boston, 2022
 - **Wing Lam** — Outstanding Dissertation Award, ACM SIGSOFT, 2022
 - **Lishan Yan** — Kaivalya Dixit Distinguished Dissertation Award, Standard Performance Evaluation Corporation (SPEC), 2022
-
-
-
-
 
 
 ## Virginia Awards
@@ -199,10 +192,10 @@
 - **Amarda Shehu**
   - 2022 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
 
-- **Jeff Offutt**
+- **Jeff Offutt**\*
   - 2019 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
 
-- **Daniel Menascé**
+- **Daniel Menascé**\*
   - 2017 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
 
 
@@ -218,49 +211,49 @@
   - Presidential Faculty Excellence Awards, 2024
 - **Amarda Shehu**
   - Presidential Faculty Excellence Awards, 2021
-- **Daniel Menascé**
+- **Daniel Menascé**\*
   - David J. King Teaching Award, 2021
 - **Amarda Shehu**
   - Beck Family Presidential Medal for Faculty Excellence in Research & Scholarship, 2021
-- **Jeff Offutt**
+- **Jeff Offutt**\*
   - Alumni Association Faculty of the Year Award, 2020
   - Presidential Faculty Excellence Awards, 2020
 - **Katherine (Raven) Russell**
   - Teacher of Distinction Award Winners, 2020
-- **Jonathan Bell**
+- **Jonathan Bell**\*
   - Teacher of Distinction Award Winners, 2020
-- **Paul Ammann**
+- **Paul Ammann**\*
   - Teaching Excellence Award Winners, 2019
-- **Huzefa Rangwala**
+- **Huzefa Rangwala**\*
   - OSCAR Mentor Award Winners, 2018
 - **Amarda Shehu**
   - Teaching Excellence Award Winners, 2018
-- **Chris Kauffman**
+- **Chris Kauffman**\*
   - Teaching Excellence Award Winners, 2017
 - **Yotam Gingold**
   - Teaching Excellence Award Winners, 2017
-- **Kinga Dobolyi**
+- **Kinga Dobolyi**\*
   - Teaching Excellence Award Winners, 2016
 - **Mark Snyder**
   - Teaching Excellence Award Winners, 2016
-- **Jyh-Ming Lien**
+- **Jyh-Ming Lien**\*
   - Emerging Researcher, Scholar, Creator Awards, 2015
 - **Sean Luke**
   - Teaching Excellence Award Winners, 2015
 - **Amarda Shehu**
   - Emerging Researcher, Scholar, Creator Awards, 2014
-- **Huzefa Rangwala**
+- **Huzefa Rangwala**\*
   - Teaching Excellence Award Winners, 2014
   - Mason Emerging Researcher, Scholar, Creator Awards, 2014
-- **Jeff Offutt**
+- **Jeff Offutt**\*
   - Teaching Excellence Award Winners, 2013
 - **Amarda Shehu**
   - OSCAR Mentor Award Winners, 2013
-- **Sam Malek**
+- **Sam Malek**\*
   - Emerging Researcher, Scholar, Creator Awards, 2013
 - **Tamara Maddox**
   - Teaching Excellence Award Winners, 2012
-- **Angelos Stavrou**
+- **Angelos Stavrou**\*
   - Emerging Researcher, Scholar, Creator Awards, 2012
 - **Songqing Chen**
   - Emerging Researcher, Scholar, Creator Awards, 2009
