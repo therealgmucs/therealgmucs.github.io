@@ -1,6 +1,9 @@
+<link rel="stylesheet" type="text/css" href="https://dynaroars.github.io/files/org.css">
+
+
 # Faculty Awards
+
 > Computer Science faculty have been recognized by their peers and by the profession for their outstanding work.
----
 
 
 
@@ -87,7 +90,7 @@
   - Most Influential Paper Award, ICSE 2002 — *Towards a method of programming with assertions*, ICSE 1992
 
 
----
+
 
 ## Industrial Awards
 
@@ -113,7 +116,7 @@
 - **Giuseppe Ateniese** — Google Faculty Research Award, 2012
 
 
----
+
 
 ## National Science Foundation (NSF) CAREER Awards
 
