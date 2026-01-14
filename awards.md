@@ -201,15 +201,16 @@
 
 
 ## Mason Awards
-
 - **Kevin Andrea**
   - Teaching Excellence Award, 2025
   - Outstanding Term Assistant Professor 2025
+- **Mark Snyder**
+  - Service Excellence Award, 2025
 - **Xuesu Xiao**
   - Presidential Faculty Excellence Awards, 2025
   - Research Excellence Award, 2025
 - **Thomas LaToza**
-  - Teacher of Distinction Award Winners, 2024
+  - Teacher of Distinction Award, 2024
 - **Antonios Anastasopoulos**
   - Presidential Faculty Excellence Awards, 2024
 - **Amarda Shehu**
@@ -222,40 +223,40 @@
   - Alumni Association Faculty of the Year Award, 2020
   - Presidential Faculty Excellence Awards, 2020
 - **Katherine (Raven) Russell**
-  - Teacher of Distinction Award Winners, 2020
+  - Teacher of Distinction Award, 2020
 - **Jonathan Bell**\*
-  - Teacher of Distinction Award Winners, 2020
+  - Teacher of Distinction Award, 2020
 - **Paul Ammann**\*
-  - Teaching Excellence Award Winners, 2019
+  - Teaching Excellence Award, 2019
 - **Huzefa Rangwala**\*
-  - OSCAR Mentor Award Winners, 2018
+  - OSCAR Mentor Award, 2018
 - **Amarda Shehu**
-  - Teaching Excellence Award Winners, 2018
+  - Teaching Excellence Award, 2018
 - **Chris Kauffman**\*
-  - Teaching Excellence Award Winners, 2017
+  - Teaching Excellence Award, 2017
 - **Yotam Gingold**
-  - Teaching Excellence Award Winners, 2017
+  - Teaching Excellence Award, 2017
 - **Kinga Dobolyi**\*
-  - Teaching Excellence Award Winners, 2016
+  - Teaching Excellence Award, 2016
 - **Mark Snyder**
-  - Teaching Excellence Award Winners, 2016
+  - Teaching Excellence Award, 2016
 - **Jyh-Ming Lien**\*
   - Emerging Researcher, Scholar, Creator Awards, 2015
 - **Sean Luke**
-  - Teaching Excellence Award Winners, 2015
+  - Teaching Excellence Award, 2015
 - **Amarda Shehu**
   - Emerging Researcher, Scholar, Creator Awards, 2014
 - **Huzefa Rangwala**\*
-  - Teaching Excellence Award Winners, 2014
+  - Teaching Excellence Award, 2014
   - Mason Emerging Researcher, Scholar, Creator Awards, 2014
 - **Jeff Offutt**\*
-  - Teaching Excellence Award Winners, 2013
+  - Teaching Excellence Award, 2013
 - **Amarda Shehu**
-  - OSCAR Mentor Award Winners, 2013
+  - OSCAR Mentor Awar, 2013
 - **Sam Malek**\*
   - Emerging Researcher, Scholar, Creator Awards, 2013
 - **Tamara Maddox**
-  - Teaching Excellence Award Winners, 2012
+  - Teaching Excellence Award, 2012
 - **Angelos Stavrou**\*
   - Emerging Researcher, Scholar, Creator Awards, 2012
 - **Songqing Chen**
@@ -263,7 +264,7 @@
 - **Carlotta Domeniconi**
   - Emerging Researcher, Scholar, Creator Awards, 2008
 - **Daniel Menascé**\*
-  - Teaching Excellence Award Winners, 2000
+  - Teaching Excellence Award, 2000
 
 
 \* No longer at George Mason (retired or moved). Rewards received while at GMU.
