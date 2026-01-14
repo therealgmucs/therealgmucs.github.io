@@ -182,7 +182,7 @@
 ## Virginia Awards
 
 - **Xuesu Xiao**
-  - 2025 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
+  - 2025 Outstanding Faculty Award (Rising Star) from the State Council of Higher Education of Virginia (SCHEV) for excellence in research, teaching, knowledge integration, and public service.
 
 - **Missy Cummings**
   - Virginia Academy of Science, Engineering and Medicine (VASEM) Members, 2025
@@ -204,8 +204,10 @@
 
 - **Kevin Andrea**
   - Teaching Excellence Award, 2025
+  - Outstanding Term Assistant Professor 2025
 - **Xuesu Xiao**
   - Presidential Faculty Excellence Awards, 2025
+  - Research Excellence Award, 2025
 - **Thomas LaToza**
   - Teacher of Distinction Award Winners, 2024
 - **Antonios Anastasopoulos**
