@@ -116,9 +116,7 @@
 - **Giuseppe Ateniese** — Google Faculty Research Award, 2012
 
 
-
-
-## National Science Foundation (NSF) CAREER Awards
+## NSF CAREER Awards
 
 > The Faculty Early Career Development (CAREER) Program is a National Science Foundation activity that offers the NSF's most prestigious awards to early career-development activities of teacher-scholars who integrate research and education within the context of the mission of their organization.
 
