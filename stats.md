@@ -217,7 +217,7 @@
 
 # Other stuff
 ## Useful Links
-  - [GMU Stats and Figures](https://oiep.gmu.edu/resources/fast-facts/mason-facts-and-figures-2022-2023/)
+  - [GMU Stats and Figures](https://oiep.gmu.edu/resources/fast-facts/)
 
 
 

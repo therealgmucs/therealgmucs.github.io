@@ -1,6 +1,5 @@
 <link rel="stylesheet" type="text/css" href="https://dynaroars.github.io/files/org.css">
 
-# Real GMU CS
 > no branding, no marketing, no filterin
 
 
@@ -22,9 +21,9 @@
 
 ## [Faculty Awards and Honors](/awards.md)
 
-## [Stats, Rankings, and Other Interesting Info](/about.md)
+## [Stats, Rankings, and Other Interesting Info](/stats.md)
 
 
 ## Links
-- [CS Department](https://cs.gmu.edu)
-- [CS Internal Sharepoint](https://go.gmu.edu/cs): For current students
+- [CS Department](https://cs.gmu.edu): GMU official website for CS.
+- [CS Internal Sharepoint](https://go.gmu.edu/cs): Internal Sharepoint site for current students.
