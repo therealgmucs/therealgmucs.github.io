@@ -147,7 +147,7 @@
 - **Gurdip Singh** — "Modular Design of Protocols," 1995 (Received at Kansas State University)
 - **Xinyuan (Frank) Wang** — "Malware Immunization and Forensics Based on Another Sense of Self," 2009
 - **Liz White** — "General Support for Dynamic Reconfiguration," 1996
-- **Thema Monroe-White**\* — "Investigating Undergraduate Student Persistence Intentions for a Diverse Data Science Community"
+- **Thema Monroe-White** — "Investigating Undergraduate Student Persistence Intentions for a Diverse Data Science Community"
 - **Jinwei Ye** — "Towards Polarimetric Visual Understanding," 2023
 - **Lap-Fai (Craig) Yu** — "Performance-Guided Synthesis of Virtual Environments for Personalized Training," 2020
 - **Qiang Zeng** — "Towards Secure and Usable IoT Authentication Under Constraints," 2022 (Received at University of South Carolina and Transferred to GMU)
